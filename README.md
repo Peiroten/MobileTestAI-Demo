@@ -26,7 +26,6 @@ This project was built in 4 days to demonstrate:
 
 | File | Description |
 
-|------|-------------|
 
 | `test\_scanner\_app.py` | Appium script that launches Open Food Facts Scanner and clicks the “Scan” button. |
 
