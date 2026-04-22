@@ -35,7 +35,7 @@ This project was built in 4 days to demonstrate:
 
 | `TestCases.md` | test cases (functional, negative, edge, non‑functional). |
 
-| `Bug_Report_Before.md` / `After.md` | Example of AI‑improved bug reporting. |
+| `Bug_Report_Before.md` / `Bug_Report_After.md` | Example of AI‑improved bug reporting. |
 
 
 
