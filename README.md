@@ -178,5 +178,5 @@ Have any questions or would like to see a live demo, please reach out
 
 
 
-built with ❤️ by a QA engineer who loves new challengers.
+built with ❤️ by a QA engineer that loves new challenges.
 
