@@ -27,15 +27,15 @@ This project was built in 4 days to demonstrate:
 | File | Description |
 
 
-| `test\_scanner\_app.py` | Appium script that launches Open Food Facts Scanner and clicks the “Scan” button. |
+| `test_scanner_app.py` | Appium script that launches Open Food Facts Scanner and clicks the “Scan” button. |
 
-| `test\_api.py` | API test for Open Food Facts public endpoint (product lookup). |
+| `test_api.py` | API test for Open Food Facts public endpoint (product lookup). |
 
-| `try\_locators.py` | Example of trying multiple locators to find a mobile element. |
+| `try_locators.py` | Example of trying multiple locators to find a mobile element. |
 
 | `TestCases.md` | test cases (functional, negative, edge, non‑functional). |
 
-| `Bug\_Report\_Before.md` / `After.md` | Example of AI‑improved bug reporting. |
+| `Bug_Report_Before.md` / `After.md` | Example of AI‑improved bug reporting. |
 
 
 
@@ -53,7 +53,6 @@ This project was built in 4 days to demonstrate:
 
 2\. \*\*Install Appium Server\*\* (Node.js required):
 
-&#x20;  ```bash
 
 &#x20;  npm install -g appium
 
@@ -123,7 +122,7 @@ Run the Mobile Test (in another terminal)
 
 &#x09;.\\venv\\Scripts\\activate
 
-&#x09;python test\_scanner\_app.py
+&#x09;python test_scanner_app.py
 
 
 
@@ -135,7 +134,7 @@ Run the API Test
 
 
 
-&#x09;python test\_api.py
+&#x09;python test_api.py
 
 
 
